@@ -1,0 +1,3 @@
+Estou fazendo o curso de Git e Github pela DIO, sendo este um teste e conclusão de desafio pela Dio. Acho muito interessante e prático poder controlar minhas publicações de projeto no git pelo terminal do meu computador, é de fato uma ótima ferramenta e to gostando bastante de aprender todos os métodos conforme o curso. 
+
+-25/07/2022
